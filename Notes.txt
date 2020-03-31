@@ -1,0 +1,5 @@
+Times spent in the task: Around 7 hours
+
+App made by Inaldo Ramos Ribeiro for PulseLive, 100% code - without the use of Storyboards, let me know if you need UI/Unit tests so I can develop it and send to you.
+
+Thank you
