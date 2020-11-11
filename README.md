@@ -10,9 +10,12 @@ The app retrieves and displays a list of items described in the data provided by
 
 ## Pictures
 
-<img src="oooo" width=300>
-<img src="oooo" width=300>
+<img src="https://github.com/inaldor/iOSTask/blob/master/app-images/home1.png" width=300>
+<img src="https://github.com/inaldor/iOSTask/blob/master/app-images/home2.png" width=300>
+<img src="https://github.com/inaldor/iOSTask/blob/master/app-images/itemdetail1.png" width=300>
+<img src="https://github.com/inaldor/iOSTask/blob/master/app-images/itemdetail2.png" width=300>
+<img src="https://github.com/inaldor/iOSTask/blob/master/app-images/itemdetail3.png" width=300>
 
 ## License
 
-This project is licensed under the [MIT License](oooo)
+This project is licensed under the [MIT License](https://github.com/inaldor/iOSTask/blob/master/LICENSE)
